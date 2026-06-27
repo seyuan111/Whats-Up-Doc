@@ -1,8 +1,9 @@
 {
   "version": 2,
   "framework": "vite",
+  "rootDirectory": "booking-app",
   "buildCommand": "npm run build",
-  "installCommand": "npm install",
+  "installCommand": "cd booking-app && npm install",
   "outputDirectory": "dist",
   "rewrites": [
     {
