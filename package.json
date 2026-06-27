@@ -5,5 +5,9 @@
     "dev": "cd booking-app && npm run dev -- --host 0.0.0.0",
     "build": "cd booking-app && npm run build",
     "preview": "cd booking-app && npm run preview"
+  },
+    "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
   }
 }
