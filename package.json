@@ -1,0 +1,9 @@
+{
+  "name": "booking-appointment-app",
+  "private": true,
+  "scripts": {
+    "dev": "cd booking-app && npm run dev",
+    "build": "cd booking-app && npm run build",
+    "preview": "cd booking-app && npm run preview"
+  }
+}
