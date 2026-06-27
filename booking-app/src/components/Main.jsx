@@ -31,11 +31,11 @@ const Main = () => {
         </div>
 
         <div className="w-full max-w-md rounded-2xl bg-slate-900 p-8 text-white">
-          <h2 className="mb-3 text-2xl font-semibold">Why teams love it</h2>
+          <h2 className="mb-3 text-2xl font-semibold">Built for modern patient care</h2>
           <ul className="space-y-3 text-sm text-slate-300">
-            <li>• Quick booking flows for busy clients</li>
-            <li>• Clean dashboard for appointments and reminders</li>
-            <li>• Easy access to account and preferences</li>
+            <li>• Book appointments with doctors in minutes</li>
+            <li>• Use and update insurance details effortlessly</li>
+            <li>• Discover nearby hospitals and book with confidence</li>
           </ul>
         </div>
       </div>

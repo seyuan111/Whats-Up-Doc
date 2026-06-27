@@ -6,9 +6,8 @@ const NavBar = () => {
 
   const links = [
     { to: '/about', label: 'About' },
-    { to: '/contact', label: 'Contact' },
     { to: '/settings', label: 'Settings' },
-    { to: '/faq', label: 'FAQ' },
+    { to: '/contact', label: 'Contact' },
     { to: '/login', label: 'Login' }
   ]
 
